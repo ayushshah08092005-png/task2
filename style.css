@@ -1,0 +1,35 @@
+body{
+    background-color: orange;
+}
+
+.head{
+    color: darkblue;
+}
+
+#bglime{
+    background-color: rgb(137, 202, 32);
+   
+}
+
+.special{
+    color: rgb(183, 19, 131);
+}
+
+p{
+color: white;
+}
+
+#para{
+    color: green;
+}
+
+#fps{
+    color: black;
+    font-size: 40px;
+}
+
+ul li span,  ol li span{
+    color: red;
+     font-weight:bold ;
+}
+
